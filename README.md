@@ -10,4 +10,4 @@ Reset Button: Clicking the reset button stops the timer (if running) and sets it
 
 Demo Video Link : 
 
-Hosted Link :  
+Hosted Link :  https://capable-kleicha-d83c08.netlify.app
